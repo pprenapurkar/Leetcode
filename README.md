@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pprenapurkar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/pprenapurkar/Leetcode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/pprenapurkar/Leetcode/tree/master/0500-keyboard-row) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pprenapurkar/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pprenapurkar/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pprenapurkar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
