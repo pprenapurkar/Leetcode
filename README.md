@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pprenapurkar/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pprenapurkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/pprenapurkar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/pprenapurkar/Leetcode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pprenapurkar/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pprenapurkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/pprenapurkar/Leetcode/tree/master/0500-keyboard-row) |
 ## String
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pprenapurkar/Leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pprenapurkar/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
